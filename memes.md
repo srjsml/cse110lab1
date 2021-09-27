@@ -1,0 +1,6 @@
+![Brain got hands](/memes/braingothands.png)
+![Fixing your computer be like](/memes/computerhelp.png)
+![Finding a cool rock in the driveway](/memes/coolrock.png)
+![What my parents did at 24 versus me at 24](/memes/generationaldifference.png)
+![Eigen-Jordans](/memes/eigenjordan.jpg)
+![A bad day versus me not trying to have a bad day](/memes/abadday.png)

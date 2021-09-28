@@ -49,7 +49,7 @@ for (int i = 0; i < buffer.length - delaySamples - 1; i++)
 
 ### Things I wish to accomplish this year:
 - [X] Bench 100
-- [] Bench 150
-- [] Catch up to One Piece (halfway there!)
+- [ ] Bench 150
+- [ ] Catch up to One Piece (halfway there!)
 
 
